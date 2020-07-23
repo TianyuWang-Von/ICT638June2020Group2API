@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICT638June2020Group2API", "ICT638June2020Group2API\ICT638June2020Group2API.csproj", "{D46FB45A-91EB-4686-9B6A-CF807E0651BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46FB45A-91EB-4686-9B6A-CF807E0651BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46FB45A-91EB-4686-9B6A-CF807E0651BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46FB45A-91EB-4686-9B6A-CF807E0651BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46FB45A-91EB-4686-9B6A-CF807E0651BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45185735-E5C7-46A3-9E87-8DC8EB6D47F1}
+	EndGlobalSection
+EndGlobal
