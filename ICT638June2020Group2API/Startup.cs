@@ -28,8 +28,11 @@ namespace ICT638June2020Group2API
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddDbContext<AgentContext>(opt =>
+               opt.UseInMemoryDatabase("AgentList"));
+
             services.AddDbContext<RoomContext>(opt =>
-            opt.UseInMemoryDatabase("RoomInfo"));
+               opt.UseInMemoryDatabase("RoomInfo"));
 
             services.AddDbContext<RegisterContext>(opt =>
                opt.UseInMemoryDatabase("RegisterList"));
