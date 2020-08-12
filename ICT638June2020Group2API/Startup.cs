@@ -12,8 +12,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using ICT638June2020Group2API.Models;
-using Microsoft.EntityFrameworkCore;
 
 namespace ICT638June2020Group2API
 {
